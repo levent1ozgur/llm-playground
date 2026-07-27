@@ -1,1 +1,1 @@
-some digging
+This repository contains notes about Large Language Models.
